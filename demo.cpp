@@ -1,10 +1,9 @@
-
 #include <iostream>
 using namespace std;
-
 int main()
 {
-  cout<<"Jay Ganesh..\n";
+  
+  cout<<"Marvellous Infosystems\n";
   return 0;
 
 }
